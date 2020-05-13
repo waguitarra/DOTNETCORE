@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/.NET_CORE/DOTNETCORE/ProAgil.WebAPI/ProAgil.WebAPI.csproj": {}
+    "/home/NET_CORE/DOTNETCORE/ProAgil.WebAPI/ProAgil.WebAPI.csproj": {}
   },
   "projects": {
-    "/home/.NET_CORE/DOTNETCORE/ProAgil.WebAPI/ProAgil.WebAPI.csproj": {
+    "/home/NET_CORE/DOTNETCORE/ProAgil.WebAPI/ProAgil.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/.NET_CORE/DOTNETCORE/ProAgil.WebAPI/ProAgil.WebAPI.csproj",
+        "projectUniqueName": "/home/NET_CORE/DOTNETCORE/ProAgil.WebAPI/ProAgil.WebAPI.csproj",
         "projectName": "ProAgil.WebAPI",
-        "projectPath": "/home/.NET_CORE/DOTNETCORE/ProAgil.WebAPI/ProAgil.WebAPI.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/.NET_CORE/DOTNETCORE/ProAgil.WebAPI/obj/",
+        "projectPath": "/home/NET_CORE/DOTNETCORE/ProAgil.WebAPI/ProAgil.WebAPI.csproj",
+        "packagesPath": "/home/wagnerfb/.nuget/packages/",
+        "outputPath": "/home/NET_CORE/DOTNETCORE/ProAgil.WebAPI/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/wagnerfb/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -47,6 +47,10 @@
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[2.2.0, )"
             },
