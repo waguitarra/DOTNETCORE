@@ -1,3 +1,3 @@
 # DOTNETCORE
 
-Estudo con Dot Net CORE en Linux
+Estudiando con Dot Net CORE en Linux
