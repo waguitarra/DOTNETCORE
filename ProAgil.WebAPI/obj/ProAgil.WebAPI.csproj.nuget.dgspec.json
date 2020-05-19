@@ -10,14 +10,14 @@
         "projectUniqueName": "/home/NET_CORE/DOTNETCORE/ProAgil.WebAPI/ProAgil.WebAPI.csproj",
         "projectName": "ProAgil.WebAPI",
         "projectPath": "/home/NET_CORE/DOTNETCORE/ProAgil.WebAPI/ProAgil.WebAPI.csproj",
-        "packagesPath": "/home/wagnerfb/.nuget/packages/",
+        "packagesPath": "/root/.nuget/packages/",
         "outputPath": "/home/NET_CORE/DOTNETCORE/ProAgil.WebAPI/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/wagnerfb/.nuget/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
