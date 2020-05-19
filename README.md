@@ -4,9 +4,8 @@ Hola mi nombre es Wagner Figueiredo y bienvenido, estoy haciendo una creación d
 
 
 
-<<<<<<< HEAD
+
 Estudiando con Dot Net CORE en Linux
 
-dotnet run
-=======
->>>>>>> e4cb29ddc90aea2716160db7e01087256610e089
+
+
